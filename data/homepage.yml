@@ -1,0 +1,56 @@
+# Main Title
+main:
+  header:
+    title : "Dream Lotus" # Title Text
+    description : "Lotus Redevelopment Project" # Title Desc
+    button:
+      text: "Learn More" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "Blooming Anew: Lotus Co-operative Society Embarks on Redevelopment"
+  desc: "**The Lotus Co-operative Society, a name synonymous with community and comfort for the past 50 years, is embarking on a new chapter. We stand proudly as one of the first societies in this locality, having witnessed the evolution of our neighborhood. However, time has its way, and like the lotus flower itself, we too must adapt and bloom anew._
+
+  With this vision in mind, the Lotus Co-operative Society has decided to pursue redevelopment. This wasn't an easy decision. Our society has been a cherished home for generations, filled with memories and a strong sense of belonging.  However, the realities of aging infrastructure, limited amenities, and the need for modern living spaces cannot be ignored.
+
+  We understand the importance of transparency throughout this process.  We are currently in the crucial stage of securing all necessary approvals. Rest assured, the committee is working diligently to navigate the legalities and ensure a smooth transition for every resident. Open communication and resident participation are paramount to us. We will keep you informed through regular meetings and updates, addressing any questions or concerns you may have.
+
+  The new Lotus promises to be a testament to our enduring spirit. Imagine modern apartments boasting improved safety, contemporary amenities, and a renewed sense of community.  We envision a rejuvenated society that caters to the needs of all generations, carrying forward the legacy of the Lotus for another 50 years and beyond.**"
+  button:
+    enable: false
+    text: "Button"
+    url: "#"
+  image: "assets/img/lotus.png"
+
+projects:
+  card1:
+    title: "Luxury 3 BHK"
+    text: "Welcome to the epitome of luxury living in a bustling suburban area! This stunning 3-bedroom apartment is nestled within a gated community, offering the perfect blend of serene tranquility and vibrant urban excitement. Imagine waking up every morning in this stunning 3-bedroom apartment, surrounded by luxury and convenience. With its prime location, opulent features, and unparalleled amenities, this is the ultimate retreat for those who demand the best in suburban living."
+    img: "assets/img/luxury3bhk.png"
+  card2:
+    title: "Luxury 2 BHK"
+    text: "Welcome to the pinnacle of luxury living in a bustling suburban area! This exceptional 2-bedroom apartment is nestled within a gated community, offering the perfect blend of serene tranquility and vibrant urban excitement. The expansive living and dining areas are perfect for entertaining or relaxing. The open-plan design creates a seamless flow between the kitchen, living, and dining spaces. Floor-to-ceiling windows flood the space with natural light, and sliding glass doors lead to a spacious balcony with breathtaking views of the surrounding area."
+    img: "assets/img/luxury2bhk.png"
+  card3:
+    title: "Large 2 BHK"
+    text: "Welcome to this spacious 2-bedroom apartment, perfectly nestled within a gated community in a bustling suburban area! This expansive retreat offers a blend of comfort, convenience, and scenic views, making it the ideal haven for those seeking a relaxed yet vibrant lifestyle. With its spacious layout, modern amenities, and prime location, this large 2-bedroom apartment offers the perfect blend of comfort and convenience. Imagine coming home to a peaceful retreat, surrounded by scenic views and a vibrant suburban community. This is the perfect haven for those seeking a relaxed yet active lifestyle!"
+    img: "assets/img/2bhk-large-b.png"
+  card4:
+    title: "Compact 2 BHK with Balcony"
+    text: "Welcome to this charming 2-bedroom apartment with balcony, perfectly situated within a gated community in a bustling suburban area! This cozy retreat offers a blend of comfort, convenience, and scenic views, making it the ideal haven for those seeking a relaxed yet vibrant lifestyle. With its cozy layout, modern amenities, and prime location, this 2-bedroom apartment with balcony offers the perfect blend of comfort and convenience. Imagine coming home to a peaceful retreat, surrounded by scenic views and a vibrant suburban community. This is the perfect haven for those seeking a relaxed yet active lifestyle!"
+    img: "assets/img/2bhkbalcony.png"
+  card5:
+    title: "Compact 2 BHK"
+    text: "Welcome to this compact 2-bedroom apartment, perfectly situated within a gated community in a bustling suburban area! This cozy retreat offers a blend of comfort, convenience, and security, making it the ideal haven for those seeking a relaxed yet vibrant lifestyle. With its compact layout, modern amenities, and prime location, this 2-bedroom apartment offers the perfect blend of convenience and affordability. Imagine coming home to a cozy retreat, surrounded by security and a vibrant suburban community. This is the perfect haven!"
+    img: "assets/img/compact2bhk_.png"
+
+# About
+location:
+  title: "Location"
+  desc: "Max"
+  button:
+    enable: true
+    text: "Button"
+    url: "#"
+  image: "assets/img/ipad.png"
