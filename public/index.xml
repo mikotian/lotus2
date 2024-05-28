@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description>The Lotus Co-operative Society, a name synonymous with community and comfort for the past 50 years, is embarking on a new chapter. We stand proudly as one of the first societies in this locality, having witnessed the evolution of our neighborhood. However, time has its way, and like the lotus flower itself, we too must adapt and bloom anew.</description>
+    </item>
   </channel>
 </rss>
